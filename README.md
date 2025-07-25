@@ -1,44 +1,35 @@
-# Anon - An eCommerce Website
+# 🛍️ Anshika's – Modern eCommerce Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/anon-ecommerce-website?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
 
-Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
-## Demo
+Anshika's is a fully responsive and stylish eCommerce website built using **HTML**, **CSS**, and **JavaScript**. It is optimized for **all screen sizes**, ensuring seamless browsing whether on mobile or desktop.
 
-![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+> 🚀 Perfect for those who want a clean, minimal, and mobile-first shopping experience!
 
-## Prerequisites
+---
 
-Before you begin, ensure you have met the following requirements:
+##  Demo Preview
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+### 💻 Desktop View  
+![Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
 
-## Installing Anon
+### 📱 Mobile View  
+![Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
-To install **Anon**, follow these steps:
+---
 
-Linux and macOS:
+## 🔧 Prerequisites
 
+Make sure the following is installed on your system before running the project:
+
+- [Git](https://git-scm.com/downloads) – Version control system
+
+---
+
+## 📥 Installation
+
+Clone the repository to your local machine:
+
+### For Linux & macOS:
 ```bash
-sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/anon-ecommerce-website.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-## License
-
-This project is **free to use** and does not contains any license.
+sudo git clone https://github.com/your-username/anshikas-ecommerce.git
